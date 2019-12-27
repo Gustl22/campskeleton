@@ -66,9 +66,9 @@
 
 			<dependencies>
 				<dependency>
-					<groupId>com.github.twak</groupId>
+					<groupId>com.github.gustl22</groupId>
 					<artifactId>jutils</artifactId>
-					<version>master-SNAPSHOT</version>
+					<version>batik-SNAPSHOT</version>
 				</dependency>
 			</dependencies>
 
